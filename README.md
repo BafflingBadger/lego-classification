@@ -1,2 +1,2 @@
 # lego-classification
-A machine learning project that classifies images of lego pieces 
+A machine learning algorithm that classifies images of lego pieces using the K-nearest-neighbours classifier. 
